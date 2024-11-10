@@ -24,7 +24,7 @@ ScreenSmart is an intelligent resume screening tool that combines the power of S
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/screensmart.git
+git clone https://github.com/priyansusaha/screensmart
 cd screensmart
 ```
 
@@ -102,7 +102,6 @@ screensmart/
 │   ├── test_parser.py
 │   └── test_scorer.py
 ├── requirements.txt
-├── setup.py
 └── README.md
 ```
 
