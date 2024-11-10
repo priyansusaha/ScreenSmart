@@ -150,9 +150,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@priyansusaha](https://twitter.com/priyansusaha)
 
-Project Link: [https://github.com/yourusername/screensmart](https://github.com/yourusername/screensmart)
+Project Link: [https://github.com/priyansusaha/screensmart](https://github.com/priyansusaha/screensmart)
 
 ## ⚠️ Disclaimer
 
