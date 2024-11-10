@@ -141,7 +141,3 @@ The system can be configured through environment variables or direct parameters:
 Your Name - [@priyansusaha](https://twitter.com/priyansusaha)
 
 Project Link: [https://github.com/priyansusaha/screensmart](https://github.com/priyansusaha/screensmart)
-
-## ⚠️ Disclaimer
-
-This tool is designed to assist in the resume screening process but should not be used as the sole decision-maker in hiring processes. Human oversight and review are essential for fair and accurate candidate evaluation.
