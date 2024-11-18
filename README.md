@@ -20,34 +20,6 @@ ScreenSmart is an intelligent resume screening tool that combines the power of S
   - Areas for improvement
   - Match analysis against job requirements
 
-## 🛠️ Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/priyansusaha/screensmart
-cd screensmart
-```
-
-2. Create and activate a virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows, use: venv\Scripts\activate
-```
-
-3. Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-4. Download the SpaCy English model:
-```bash
-python -m spacy download en_core_web_lg
-```
-
-5. Set up your OpenAI API key:
-```bash
-export OPENAI_API_KEY='your-api-key-here'  # On Windows, use: set OPENAI_API_KEY=your-api-key-here
-```
 
 ## 📋 Requirements
 
@@ -87,22 +59,6 @@ if result['success']:
     print(f"Feedback: {result['feedback']}")
 else:
     print(f"Error: {result['error']}")
-```
-
-## 🏗️ Project Structure
-
-```
-screensmart/
-├── resume_parser/
-│   ├── __init__.py
-│   ├── parser.py      # Resume parsing logic using SpaCy
-│   └── scorer.py      # GPT integration for scoring
-├── tests/
-│   ├── __init__.py
-│   ├── test_parser.py
-│   └── test_scorer.py
-├── requirements.txt
-└── README.md
 ```
 
 ## 🔧 Configuration
