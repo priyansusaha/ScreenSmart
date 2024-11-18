@@ -29,37 +29,6 @@ ScreenSmart is an intelligent resume screening tool that combines the power of S
 - OpenAI Python package
 - Internet connection for GPT API access
 
-## 💻 Usage
-
-```python
-from resume_parser import main
-
-# Configure your inputs
-pdf_path = "path/to/resume.pdf"
-job_description = """
-We are seeking a Python developer with strong experience in machine learning and NLP.
-Required skills:
-- Python programming
-- Machine learning algorithms
-- Natural Language Processing
-- SQL databases
-- Git version control
-"""
-openai_api_key = "your-api-key-here"
-
-# Process the resume
-result = main(pdf_path, job_description, openai_api_key)
-
-# Print results
-if result['success']:
-    print(f"Extracted Entities:")
-    for entity_type, entities in result['entities'].items():
-        print(f"{entity_type.capitalize()}: {', '.join(entities)}")
-    print(f"\nScore: {result['score']}/100")
-    print(f"Feedback: {result['feedback']}")
-else:
-    print(f"Error: {result['error']}")
-```
 
 ## 🔧 Configuration
 
