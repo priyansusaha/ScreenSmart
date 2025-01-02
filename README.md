@@ -60,9 +60,3 @@ The system can be configured through environment variables or direct parameters:
 - SpaCy for their excellent NLP toolkit
 - OpenAI for their GPT API
 - The open-source community for various Python packages used in this project
-
-## 📞 Contact
-
-Your Name - [@priyansusaha](https://twitter.com/priyansusaha)
-
-Project Link: [https://github.com/priyansusaha/screensmart](https://github.com/priyansusaha/screensmart)
